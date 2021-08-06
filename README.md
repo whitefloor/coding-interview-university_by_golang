@@ -4,12 +4,13 @@
 自2019/9,在PTT上找到了人生第一份程式設計工作,也是在第一家公司開始學Go的
 
 目前在準備computer science方面的知識,目標是希望能夠成為獨當一面的軟體工程師  
-這個Repository主要使用Go進行實做,以及包含以下項目為主要目標
+這個Repository主要使用Go進行實做,以及包含以下項目為主要目標  
+並將其中的項目獨立出來研究撰寫筆記
 
+* Go
+* SQL
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-tw.md)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
-
-
 
 # Go 學習資源
 
@@ -25,4 +26,3 @@
 
 - [Go語言聖經](https://github.com/gopl-zh/gopl-zh.github.com)
 - [Go语言高级编程 (Advanced Go Programming)](https://github.com/chai2010/advanced-go-programming-book)
-
