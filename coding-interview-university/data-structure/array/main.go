@@ -114,7 +114,9 @@ func ArrayReturnTheValueIndex(arr []int, value int) (index int) {
 	return -1
 }
 
-// 沒有實作的,覺得這不實際 ======
+// 沒有實作的 ======
+
+// 練習在程式中用陣列以及指標，透過計算指標而存取該內容，而不是直接用索引。
 
 // resize(nex_capacity) // private function
 // 當陣列已經用盡了所有容量後，把陣列的容量*2。
