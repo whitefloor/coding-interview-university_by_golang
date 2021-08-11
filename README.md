@@ -32,5 +32,11 @@ README.md的部分會是索引資源
 # 演算法-Algorithm
 
 * [Dynamic Programming](http://web.ntnu.edu.tw/~algo/DynamicProgramming.html)
+* [Know Thy Complexities](https://www.bigocheatsheet.com/)
 
 # Database-SQL
+
+# 設計模式
+
+- 深入淺出設計模式(Head First Design Patterns)
+- [Clean Architecture 概念篇 + Dependency injection](https://ithelp.ithome.com.tw/articles/10240228?sc=iThomeR)
