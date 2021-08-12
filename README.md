@@ -19,7 +19,7 @@ README.md的部分會是索引資源
 我在學習Go的過程中,這些資源幾乎涵蓋了我所有問題的解答  
 還有我看過的實體書開放在網路上讓人免費學習,可以省下一些花費
 
-- [Go的官方網站](https://golang.org/doc/),推薦先看下面這些大標題的內容,剛好可以練習英文
+- [Go的官方網站](https://golang.org/doc/)推薦先看下面這些大標題的內容,剛好可以練習英文
 
     - A Tour of Go
     - Effective Go
@@ -31,12 +31,15 @@ README.md的部分會是索引資源
 
 # 演算法-Algorithm
 
-* [Dynamic Programming](http://web.ntnu.edu.tw/~algo/DynamicProgramming.html)
-* [Know Thy Complexities](https://www.bigocheatsheet.com/)
+* [Dynamic Programming](http://web.ntnu.edu.tw/~algo/DynamicProgramming.html)這個網站還有包含其他computer science方面的知識
+* [Know Thy Complexities](https://www.bigocheatsheet.com/)常見演算法時間複雜度整理
 
 # Database-SQL
+
+- [MySQL](https://www.itread01.com/study/mysql-tutorial.html)這個網站還包含了前端/程式語言/Linux/Docker/Redis...等教學
 
 # 設計模式
 
 - 深入淺出設計模式(Head First Design Patterns)
 - [Clean Architecture 概念篇 + Dependency injection](https://ithelp.ithome.com.tw/articles/10240228?sc=iThomeR)
+- [(IoC) Inversion of Control + (DI) Dependency Inversion Principle](https://iter01.com/562085.html)
