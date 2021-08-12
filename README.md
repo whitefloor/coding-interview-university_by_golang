@@ -27,7 +27,8 @@ README.md的部分會是索引資源
     - Go Modules Reference
 
 - [Go語言聖經](https://github.com/gopl-zh/gopl-zh.github.com)
-- [Go语言高级编程 (Advanced Go Programming)](https://github.com/chai2010/advanced-go-programming-book)
+- [Go语言高级编程 (Advanced Go Programming)](https://github.com/chai2010/advanced-go-programming-book)  
+- Stack & Heap 詳見Go資料夾內整理
 
 # 演算法-Algorithm
 
@@ -40,6 +41,7 @@ README.md的部分會是索引資源
 
 # 設計模式
 
-- 深入淺出設計模式(Head First Design Patterns)
+- 深入淺出設計模式(Head First Design Patterns) ISBN:9867794524
+- 無瑕的程式碼：整潔的軟體設計與架構篇 ISBN:9789864342945
 - [Clean Architecture 概念篇 + Dependency injection](https://ithelp.ithome.com.tw/articles/10240228?sc=iThomeR)
 - [(IoC) Inversion of Control + (DI) Dependency Inversion Principle](https://iter01.com/562085.html)
