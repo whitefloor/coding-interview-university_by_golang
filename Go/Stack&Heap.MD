@@ -1,6 +1,6 @@
 # Stack and Heap
 
-## 一般的Stack & Heap介紹
+## 一般的Stack & Heap
 
 - https://nwpie.blogspot.com/2017/05/5-stack-heap.html
 - https://medium.com/@yauhsienhuang/stack-%E8%88%87-heap-%E6%9C%89%E4%BD%95%E5%B7%AE%E5%88%A5-acdcc11263a0
