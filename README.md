@@ -45,3 +45,10 @@ README.md的部分會是索引資源
 - 無瑕的程式碼：整潔的軟體設計與架構篇 ISBN:9789864342945
 - [Clean Architecture 概念篇 + Dependency injection](https://ithelp.ithome.com.tw/articles/10240228?sc=iThomeR)
 - [(IoC) Inversion of Control + (DI) Dependency Inversion Principle](https://iter01.com/562085.html)
+
+# 網路協定
+
+- [TCP/IP協定]http://kevin.hwai.edu.tw/~kevin/material/EAssistant/TCP.htm)
+- [TCP/IP 協定與 Internet 網路](http://www.tsnien.idv.tw/Internet_WebBook/Internet.html)這是博士寫的電子書,講解的很細緻
+- [TCP/UDP的差別](https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/)
+- [SSL/TSL](https://www.websecurity.digicert.com/zh/hk/security-topics/what-is-ssl-tls-https)
