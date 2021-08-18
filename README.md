@@ -11,6 +11,7 @@ README.md的部分會是索引資源
 
 * Go
 * Database-SQL
+* Docker
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-tw.md)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
@@ -53,3 +54,4 @@ README.md的部分會是索引資源
 - [TCP/UDP的差別](https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/)
 - [SSL/TSL](https://www.websecurity.digicert.com/zh/hk/security-topics/what-is-ssl-tls-https)
 - [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2?hl=zh-cn)跟grpc有關
+- [WebSocket](https://docs.microsoft.com/zh-tw/archive/msdn-magazine/2012/may/cutting-edge-understanding-the-power-of-websockets)
