@@ -60,6 +60,6 @@ README.md的部分會是索引資源
 
 - [Docker —— 從入門到實踐](https://github.com/philipz/docker_practice)
 - [docker docs](https://docs.docker.com/language/golang/build-images/)
-- [使用 Docker 封裝與運行 Go 程式](https://ithelp.ithome.com.tw/articles/10240352)
-- [使用 Docker Compose 摻在一起做懶人包](https://ithelp.ithome.com.tw/articles/10243618)
+- [使用 Docker 封裝與運行 Go 程式](https://ithelp.ithome.com.tw/articles/10240352)系列文,同個作者有很多可以參考的文章
+- [使用 Docker Compose 摻在一起做懶人包](https://ithelp.ithome.com.tw/articles/10243618)系列文,同個作者有很多可以參考的文章
 - [Kitematic — Docker 圖形化管理工具](https://medium.com/@bee811101/kitematic-docker-%E5%9C%96%E5%BD%A2%E5%8C%96%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-60ffe5e3605a)
