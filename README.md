@@ -32,6 +32,7 @@ README.md的部分會是索引資源
 
 # 演算法-Algorithm
 
+* [漸進分析(Asymptotic analysis)](https://www.itread01.com/content/1550231649.html)
 * [Dynamic Programming](http://web.ntnu.edu.tw/~algo/DynamicProgramming.html)這個網站還有包含其他computer science方面的知識
 * [Know Thy Complexities](https://www.bigocheatsheet.com/)常見演算法時間複雜度整理
 
