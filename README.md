@@ -1,4 +1,4 @@
-# coding-interview-university-reading-notes-use-golang
+# coding-interview-university_by_golang
 
 # 前言
 自2019/9,在PTT上找到了人生第一份程式設計工作,也是在第一家公司開始學Go的
