@@ -40,6 +40,7 @@ README.md的部分會是索引資源
 # Database-SQL
 
 - [MySQL](https://www.itread01.com/study/mysql-tutorial.html)這個網站還包含了前端/程式語言/Linux/Docker/Redis...等教學
+- [TiDB](https://docs.pingcap.com/zh/tidb/stable/performance-tuning-overview)主要是借用文件內的優化概念，可以挪用到別的DB上運用類似的概念，文件解釋的很清楚，還有些實際案例可以參考
 
 # 設計模式
 
