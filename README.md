@@ -20,7 +20,7 @@ README.md的部分會是索引資源
 我在學習Go的過程中,這些資源幾乎涵蓋了我所有問題的解答  
 還有我看過的實體書開放在網路上讓人免費學習,可以省下一些花費
 
-- [Go的官方網站](https://golang.org/doc/)推薦先看下面這些大標題的內容,剛好可以練習英文
+- [Go的官方網站](https://golang.org/doc/) 推薦先看下面這些大標題的內容,剛好可以練習英文
 
     - A Tour of Go
     - Effective Go
@@ -34,13 +34,13 @@ README.md的部分會是索引資源
 # 演算法-Algorithm
 
 * [漸進分析(Asymptotic analysis)](https://www.itread01.com/content/1550231649.html)
-* [Dynamic Programming](http://web.ntnu.edu.tw/~algo/DynamicProgramming.html)這個網站還有包含其他computer science方面的知識
-* [Know Thy Complexities](https://www.bigocheatsheet.com/)常見演算法時間複雜度整理
+* [Dynamic Programming](http://web.ntnu.edu.tw/~algo/DynamicProgramming.html) 這個網站還有包含其他computer science方面的知識
+* [Know Thy Complexities](https://www.bigocheatsheet.com/) 常見演算法時間複雜度整理
 
 # Database-SQL
 
-- [MySQL](https://www.itread01.com/study/mysql-tutorial.html)這個網站還包含了前端/程式語言/Linux/Docker/Redis...等教學
-- [TiDB](https://docs.pingcap.com/zh/tidb/stable/performance-tuning-overview)主要是借用文件內的優化概念，可以挪用到別的DB上運用類似的概念，文件解釋的很清楚，還有些實際案例可以參考
+- [MySQL](https://www.itread01.com/study/mysql-tutorial.html) 這個網站還包含了前端/程式語言/Linux/Docker/Redis...等教學
+- [TiDB](https://docs.pingcap.com/zh/tidb/stable/performance-tuning-overview) 主要是借用文件內的優化概念，可以挪用到別的DB上運用類似的概念，文件解釋的很清楚，還有些實際案例可以參考
 
 # 設計模式
 
@@ -52,23 +52,23 @@ README.md的部分會是索引資源
 # 網路協定
 
 - [TCP/IP協定]http://kevin.hwai.edu.tw/~kevin/material/EAssistant/TCP.htm)
-- [TCP/IP 協定與 Internet 網路](http://www.tsnien.idv.tw/Internet_WebBook/Internet.html)這是博士寫的電子書,講解的很細緻
+- [TCP/IP 協定與 Internet 網路](http://www.tsnien.idv.tw/Internet_WebBook/Internet.html) 這是博士寫的電子書,講解的很細緻
 - [TCP/UDP的差別](https://www.tsnien.idv.tw/Network_WebBook/chap13/13-6%20TCP%20%E9%80%9A%E8%A8%8A%E5%8D%94%E5%AE%9A.html)
 - [SSL/TSL](https://www.websecurity.digicert.com/zh/hk/security-topics/what-is-ssl-tls-https)
-- [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2?hl=zh-cn)跟grpc有關
+- [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2?hl=zh-cn) 跟grpc有關
 - [WebSocket](https://docs.microsoft.com/zh-tw/archive/msdn-magazine/2012/may/cutting-edge-understanding-the-power-of-websockets)
 
 # Docker
 
 - [Docker —— 從入門到實踐](https://github.com/philipz/docker_practice)
 - [docker docs](https://docs.docker.com/language/golang/build-images/)
-- [使用 Docker 封裝與運行 Go 程式](https://ithelp.ithome.com.tw/articles/10240352)系列文,同個作者有很多可以參考的文章
-- [使用 Docker Compose 摻在一起做懶人包](https://ithelp.ithome.com.tw/articles/10243618)系列文,同個作者有很多可以參考的文章
+- [使用 Docker 封裝與運行 Go 程式](https://ithelp.ithome.com.tw/articles/10240352) 系列文,同個作者有很多可以參考的文章
+- [使用 Docker Compose 摻在一起做懶人包](https://ithelp.ithome.com.tw/articles/10243618) 系列文,同個作者有很多可以參考的文章
 - [Kitematic — Docker 圖形化管理工具](https://medium.com/@bee811101/kitematic-docker-%E5%9C%96%E5%BD%A2%E5%8C%96%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-60ffe5e3605a)
 
 # System Design
 
-- [秒殺系統](https://juejin.cn/post/7203136448333332535)裡面有大量系統設計的案例跟講解，非常不錯
+- [秒殺系統](https://juejin.cn/post/7203136448333332535) 裡面有大量系統設計的案例跟講解，非常不錯
 
 # Git的坑
 
