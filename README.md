@@ -53,7 +53,7 @@ README.md的部分會是索引資源
 
 - [TCP/IP協定]http://kevin.hwai.edu.tw/~kevin/material/EAssistant/TCP.htm)
 - [TCP/IP 協定與 Internet 網路](http://www.tsnien.idv.tw/Internet_WebBook/Internet.html)這是博士寫的電子書,講解的很細緻
-- [TCP/UDP的差別](https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/)
+- [TCP/UDP的差別](https://www.tsnien.idv.tw/Network_WebBook/chap13/13-6%20TCP%20%E9%80%9A%E8%A8%8A%E5%8D%94%E5%AE%9A.html)
 - [SSL/TSL](https://www.websecurity.digicert.com/zh/hk/security-topics/what-is-ssl-tls-https)
 - [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2?hl=zh-cn)跟grpc有關
 - [WebSocket](https://docs.microsoft.com/zh-tw/archive/msdn-magazine/2012/may/cutting-edge-understanding-the-power-of-websockets)
