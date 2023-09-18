@@ -69,3 +69,8 @@ README.md的部分會是索引資源
 # System Design
 
 - [秒殺系統](https://juejin.cn/post/7203136448333332535)裡面有大量系統設計的案例跟講解，非常不錯
+
+# Git的坑
+
+- [刪除 root commit](https://stackoverflow.com/questions/10911317/how-to-remove-the-first-commit-in-git/32765827#32765827)
+- [GitHub SSH](https://www.maxlist.xyz/2022/12/22/github-ssh-setting/) 不然會因為認證問題沒辦法 push，clone 時是也要用 ssh clone 後面才會正常
