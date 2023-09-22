@@ -73,4 +73,4 @@ README.md的部分會是索引資源
 # Git的坑
 
 - [刪除 root commit](https://stackoverflow.com/questions/10911317/how-to-remove-the-first-commit-in-git/32765827#32765827)
-- [GitHub SSH](https://www.maxlist.xyz/2022/12/22/github-ssh-setting/) 不然會因為認證問題沒辦法 push，clone 時是也要用 ssh clone 後面才會正常
+- [GitHub SSH](https://gist.github.com/xirixiz/b6b0c6f4917ce17a90e00f9b60566278) 不然會因為認證問題沒辦法 push，clone 時是也要用 ssh clone 後面才會正常
