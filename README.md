@@ -38,8 +38,11 @@ README.md的部分會是索引資源
 * [Know Thy Complexities](https://www.bigocheatsheet.com/) 常見演算法時間複雜度整理
 
 # Database-SQL
-
+## MySQL
 - [MySQL](https://www.itread01.com/study/mysql-tutorial.html) 這個網站還包含了前端/程式語言/Linux/Docker/Redis...等教學
+- [Use MySQL 8.0 Explain](https://dev.mysql.com/doc/refman/8.0/en/execution-plan-information.html) 使用 MySQL Explain 查詢 Query 效能並做優化的工具
+- [MySQL 8.0 Optimization](https://dev.mysql.com/doc/refman/8.0/en/optimization.html) MySQL 可用的優化方式文件
+## TiDB
 - [TiDB](https://docs.pingcap.com/zh/tidb/stable/performance-tuning-overview) 主要是借用文件內的優化概念，可以挪用到別的DB上運用類似的概念，文件解釋的很清楚，還有些實際案例可以參考
 
 # 設計模式
