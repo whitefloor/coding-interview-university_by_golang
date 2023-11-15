@@ -30,6 +30,8 @@ README.md的部分會是索引資源
 - [Go語言聖經](https://github.com/gopl-zh/gopl-zh.github.com)
 - [Go语言高级编程 (Advanced Go Programming)](https://github.com/chai2010/advanced-go-programming-book)  
 - Stack & Heap 詳見Go資料夾內整理
+- [Slice tricks](https://ueokande.github.io/go-slice-tricks/)
+- [Go official wiki](https://github.com/golang/go/wiki)
 
 # 演算法-Algorithm
 
