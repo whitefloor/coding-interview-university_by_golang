@@ -33,6 +33,7 @@ README.md的部分會是索引資源
 - [Slice tricks](https://ueokande.github.io/go-slice-tricks/)
 - [Go official wiki](https://github.com/golang/go/wiki)
 - [Go 面試問題整體](https://zhuanlan.zhihu.com/p/471490292)
+- [Go语言设计与实现](https://draveness.me/golang/)
 
 # 演算法-Algorithm
 
