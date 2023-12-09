@@ -15,6 +15,14 @@ README.md的部分會是索引資源
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-tw.md)
 * [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
+# Anki 字卡
+更新後把 Anki 字卡放在第一位，因為我覺得這太重要了
+這東西能夠讓你在搭車或是任何具有零碎時間的時候掏出手機快速複習，效率極好
+我自己是在 IPHONE 上買 APP 花了790台幣，其他平台好像是免費的
+唯一重點是記得如果你有自建的字卡記得導出備份，不然他會固定時間清理沒使用的字卡資料
+
+* [經典演算法+系統設計字卡](https://github.com/donnemartin/interactive-coding-challenges)
+
 # Go 學習資源
 
 我在學習Go的過程中,這些資源幾乎涵蓋了我所有問題的解答  
