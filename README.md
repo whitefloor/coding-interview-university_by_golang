@@ -21,6 +21,7 @@ README.md的部分會是索引資源
 我自己是在 IPHONE 上買 APP 花了790台幣，其他平台好像是免費的  
 唯一重點是記得如果你有自建的字卡記得導出備份，不然他會固定時間清理沒使用的字卡資料  
 
+* [Anki](https://apps.ankiweb.net/)
 * [經典演算法+系統設計字卡](https://github.com/donnemartin/interactive-coding-challenges)
 
 # Go 學習資源
