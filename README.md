@@ -24,6 +24,13 @@ README.md的部分會是索引資源
 * [Anki](https://apps.ankiweb.net/)
 * [經典演算法+系統設計字卡](https://github.com/donnemartin/interactive-coding-challenges)
 
+# 學英文
+這是我的軟肋，記錄一下用了哪些地方學習英文  
+
+- [劍橋英文辭典](https://dictionary.cambridge.org/zht/) 很全面的英文辭典
+- [Hinative](https://tw.hinative.com/) 對某些詞或是文法使用上有問題可以提問的地方
+- [Yahoo英文字典](https://tw.dictionary.search.yahoo.com/) 找一個字的動詞三態或是變化很好用，跟劍橋英文字典互補
+
 # Go 學習資源
 
 我在學習Go的過程中,這些資源幾乎涵蓋了我所有問題的解答  
