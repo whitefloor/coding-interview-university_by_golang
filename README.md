@@ -53,6 +53,9 @@ README.md的部分會是索引資源
 
 # 演算法-Algorithm
 
+* [GRIND 75](https://www.techinterviewhandbook.org/grind75?weeks=19) 短時間內可以複習必刷題型跟規劃的網站，還有其他關於軟體面試的方法，必看
+* [LeetCode Cookbook in Go](https://books.halfrost.com/leetcode/) 用 Go 解 LeetCode 的解法書，內容十分詳細，必看
+* [LeetCode](https://leetcode.com/) 刷題網站，有練有差，必練
 * [漸進分析(Asymptotic analysis)](https://www.itread01.com/content/1550231649.html)
 * [Dynamic Programming](http://web.ntnu.edu.tw/~algo/DynamicProgramming.html) 這個網站還有包含其他computer science方面的知識
 * [Know Thy Complexities](https://www.bigocheatsheet.com/) 常見演算法時間複雜度整理
