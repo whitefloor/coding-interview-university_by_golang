@@ -30,6 +30,7 @@ README.md的部分會是索引資源
 - [劍橋英文辭典](https://dictionary.cambridge.org/zht/) 很全面的英文辭典
 - [Hinative](https://tw.hinative.com/) 對某些詞或是文法使用上有問題可以提問的地方
 - [Yahoo英文字典](https://tw.dictionary.search.yahoo.com/) 找一個字的動詞三態或是變化很好用，跟劍橋英文字典互補
+- [歐路詞典](https://dict.eudic.net/) 極度推薦的字典APP，可以自定義導入使用的字典，強烈推薦牛津跟朗文字典
 
 # Go 學習資源
 
